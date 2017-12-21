@@ -1,0 +1,494 @@
+Accepted   CPLX1FV3-1          H+                       ATP       
+           predicted ATP-driven transporter of H+
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-24938-MONOMER    an amino acid            UNKNOWN   
+           yeast amino acid transporter
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1FV3-27473-MONOMER    an amino acid            UNKNOWN   
+           yeast amino acid transporter
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1FV3-24886-MONOMER    a nucleotide             UNKNOWN   
+           golgi-specific brefeldin a-resistance guanine nucleotide exchange factor 1
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1FV3-24886-MONOMER    guanine                  UNKNOWN   
+           golgi-specific brefeldin a-resistance guanine nucleotide exchange factor 1
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1FV3-27381-MONOMER    Fe3+                     UNKNOWN   
+           high-affinity iron transporter
+           Fe3+[periplasm]  ->  Fe3+[cytosol]
+Accepted   G1FV3-27380-MONOMER    Fe3+                     UNKNOWN   
+           iron transport multicopper oxidase
+           Fe3+[periplasm]  ->  Fe3+[cytosol]
+Accepted   G1FV3-24792-MONOMER    L-carnitine              SECONDARY 
+           solute carrier family 25 (mitochondrial carnitine/acylcarnitine transporter), member 20/29
+           L-carnitine[periplasm] + H+[periplasm]  ->  L-carnitine[cytosol] + H+[cytosol]
+Accepted   G1FV3-27357-MONOMER    Fe3+                     UNKNOWN   
+           iron transport multicopper oxidase
+           Fe3+[periplasm]  ->  Fe3+[cytosol]
+Accepted   G1FV3-27354-MONOMER    Fe3+                     UNKNOWN   
+           high-affinity iron transporter
+           Fe3+[periplasm]  ->  Fe3+[cytosol]
+Accepted   G1FV3-24750-MONOMER    folate                   SECONDARY 
+           solute carrier family 25 (mitochondrial folate transporter), member 32
+           folate[periplasm] + H+[periplasm]  ->  folate[cytosol] + H+[cytosol]
+Accepted   G1FV3-27304-MONOMER    a cation                 UNKNOWN   
+           nucleobase:cation symporter-1, ncs1 family
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1FV3-24737-MONOMER    H+                       ATP       
+           v-type h+-transporting atpase subunit f
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-24721-MONOMER    Cu2+                     SECONDARY 
+           solute carrier family 31 (copper transporter), member 1
+           Cu2+[periplasm] + H+[periplasm]  ->  Cu2+[cytosol] + H+[cytosol]
+Accepted   G1FV3-27241-MONOMER    a long-chain fatty acid  ATP       
+           atp-binding cassette, subfamily d (ald), peroxisomal long-chain fatty acid import protein
+           a long-chain fatty acid[periplasm] + ATP + H2O  ->  a long-chain fatty acid[cytosol] + ADP + phosphate
+Accepted   G1FV3-24519-MONOMER    H+                       ATP       
+           v-type h+-transporting atpase subunit g
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-27084-MONOMER    H+                       ATP       
+           v-type h+-transporting atpase subunit d
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-27072-MONOMER    Mg2+                     UNKNOWN   
+           magnesium transporter
+           Mg2+[periplasm]  ->  Mg2+[cytosol]
+Accepted   G1FV3-24495-MONOMER    phosphate                SECONDARY 
+           solute carrier family 25 (mitochondrial phosphate transporter), member 23/24/25/41
+           phosphate[periplasm] + H+[periplasm]  ->  phosphate[cytosol] + H+[cytosol]
+Accepted   G1FV3-24487-MONOMER    an amino acid            SECONDARY 
+           solute carrier family 36 (proton-coupled amino acid transporter)
+           an amino acid[periplasm] + H+[periplasm]  ->  an amino acid[cytosol] + H+[cytosol]
+Accepted   G1FV3-24454-MONOMER    H+                       ATP       
+           v-type h+-transporting atpase subunit a
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-24411-MONOMER    chloride                 CHANNEL   
+           chloride channel 3/4/5
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1FV3-24395-MONOMER    H+                       ATP       
+           v-type h+-transporting atpase subunit h
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-31306-MONOMER    phosphate                SECONDARY 
+           mfs transporter, phs family, inorganic phosphate transporter
+           phosphate[periplasm] + H+[periplasm]  ->  phosphate[cytosol] + H+[cytosol]
+Accepted   G1FV3-31292-MONOMER    L-carnitine              SECONDARY 
+           solute carrier family 25 (mitochondrial carnitine/acylcarnitine transporter), member 20/29
+           L-carnitine[periplasm] + H+[periplasm]  ->  L-carnitine[cytosol] + H+[cytosol]
+Accepted   G1FV3-31290-MONOMER    an adenine nucleotide    SECONDARY 
+           solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17
+           an adenine nucleotide[periplasm] + H+[periplasm]  ->  an adenine nucleotide[cytosol] + H+[cytosol]
+Accepted   G1FV3-24365-MONOMER    a nucleotide             UNKNOWN   
+           guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1FV3-24365-MONOMER    guanine                  UNKNOWN   
+           guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1FV3-31172-MONOMER    choline                  UNKNOWN   
+           choline transport protein
+           choline[periplasm]  ->  choline[cytosol]
+Accepted   G1FV3-31113-MONOMER    folate                   SECONDARY 
+           solute carrier family 25 (mitochondrial folate transporter), member 32
+           folate[periplasm] + H+[periplasm]  ->  folate[cytosol] + H+[cytosol]
+Accepted   G1FV3-31041-MONOMER    phosphate                SECONDARY 
+           mfs transporter, phs family, inorganic phosphate transporter
+           phosphate[periplasm] + H+[periplasm]  ->  phosphate[cytosol] + H+[cytosol]
+Accepted   G1FV3-30888-MONOMER    H+                       ATP       
+           v-type h+-transporting atpase subunit c
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-30689-MONOMER    a long-chain fatty acid  ATP       
+           atp-binding cassette, subfamily d (ald), peroxisomal long-chain fatty acid import protein
+           a long-chain fatty acid[periplasm] + ATP + H2O  ->  a long-chain fatty acid[cytosol] + ADP + phosphate
+Accepted   G1FV3-30622-MONOMER    Fe3+                     UNKNOWN   
+           high-affinity iron transporter
+           Fe3+[periplasm]  ->  Fe3+[cytosol]
+Accepted   G1FV3-30542-MONOMER    chloride                 CHANNEL   
+           chloride channel 3/4/5
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1FV3-30457-MONOMER    Zn2+                     UNKNOWN   
+           zinc transporter, zip family
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1FV3-29318-MONOMER    a nucleoside             SECONDARY 
+           solute carrier family 29 (equilibrative nucleoside transporter), member 1/2/3
+           a nucleoside[periplasm] + H+[periplasm]  ->  a nucleoside[cytosol] + H+[cytosol]
+Accepted   G1FV3-29225-MONOMER    lactate                  SECONDARY 
+           mfs transporter, shs family, lactate transporter
+           lactate[periplasm] + H+[periplasm]  ->  lactate[cytosol] + H+[cytosol]
+Accepted   G1FV3-29178-MONOMER    Cu2+                     SECONDARY 
+           solute carrier family 31 (copper transporter), member 1
+           Cu2+[periplasm] + H+[periplasm]  ->  Cu2+[cytosol] + H+[cytosol]
+Accepted   G1FV3-29165-MONOMER    chloride                 CHANNEL   
+           chloride channel 3/4/5
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1FV3-29126-MONOMER    S-adenosyl-L-methionine  SECONDARY 
+           solute carrier family 25 (mitochondrial s-adenosylmethionine transporter), member 26
+           S-adenosyl-L-methionine[periplasm] + H+[periplasm]  ->  S-adenosyl-L-methionine[cytosol] + H+[cytosol]
+Accepted   G1FV3-29088-MONOMER    Zn2+                     SECONDARY 
+           solute carrier family 30 (zinc transporter), member 5/7
+           Zn2+[periplasm] + H+[periplasm]  ->  Zn2+[cytosol] + H+[cytosol]
+Accepted   G1FV3-29042-MONOMER    an amino acid            UNKNOWN   
+           yeast amino acid transporter
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1FV3-28981-MONOMER    urea                     SECONDARY 
+           urea-proton symporter
+           urea[periplasm] + H+[periplasm]  ->  urea[cytosol] + H+[cytosol]
+Accepted   G1FV3-28968-MONOMER    lactate                  SECONDARY 
+           mfs transporter, shs family, lactate transporter
+           lactate[periplasm] + H+[periplasm]  ->  lactate[cytosol] + H+[cytosol]
+Accepted   G1FV3-28621-MONOMER    an amino acid            UNKNOWN   
+           yeast amino acid transporter
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1FV3-28617-MONOMER    arsenite                 UNKNOWN   
+           arsenite transporter, acr3 family
+           arsenite[periplasm]  <-->  arsenite[cytosol]
+Accepted   G1FV3-28571-MONOMER    a nucleoside             UNKNOWN   
+           concentrative nucleoside transporter, cnt family
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1FV3-28533-MONOMER    phosphate                SECONDARY 
+           solute carrier family 25 (mitochondrial phosphate transporter), member 3
+           phosphate[periplasm] + H+[periplasm]  ->  phosphate[cytosol] + H+[cytosol]
+Accepted   G1FV3-28476-MONOMER    Fe3+                     UNKNOWN   
+           metal iron transporter
+           Fe3+[periplasm]  ->  Fe3+[cytosol]
+Accepted   G1FV3-27013-MONOMER    H+                       ATP       
+           v-type h+-transporting atpase subunit a
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-28387-MONOMER    L-carnitine              SECONDARY 
+           solute carrier family 25 (mitochondrial carnitine/acylcarnitine transporter), member 20/29
+           L-carnitine[periplasm] + H+[periplasm]  ->  L-carnitine[cytosol] + H+[cytosol]
+Accepted   G1FV3-26963-MONOMER    an amino acid            SECONDARY 
+           solute carrier family 32 (vesicular inhibitory amino acid transporter)
+           an amino acid[periplasm] + H+[periplasm]  ->  an amino acid[cytosol] + H+[cytosol]
+Accepted   G1FV3-28301-MONOMER    an amino acid            UNKNOWN   
+           yeast amino acid transporter
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1FV3-26852-MONOMER    a nucleotide             UNKNOWN   
+           rab guanine nucleotide exchange factor sec2
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1FV3-26852-MONOMER    guanine                  UNKNOWN   
+           rab guanine nucleotide exchange factor sec2
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1FV3-26804-MONOMER    citrate                  SECONDARY 
+           solute carrier family 25 (mitochondrial citrate transporter), member 1
+           citrate[periplasm] + H+[periplasm]  ->  citrate[cytosol] + H+[cytosol]
+Accepted   G1FV3-26793-MONOMER    a cation                 UNKNOWN   
+           cation transport protein chac
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1FV3-26722-MONOMER    H+                       ATP       
+           v-type h+-transporting atpase 16kda proteolipid subunit
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-26698-MONOMER    myo-inositol             SECONDARY 
+           mfs transporter, sp family, solute carrier family 2 (myo-inositol transporter), member 13
+           myo-inositol[periplasm] + H+[periplasm]  ->  myo-inositol[cytosol] + H+[cytosol]
+Accepted   G1FV3-26660-MONOMER    a UDP-sugar              SECONDARY 
+           solute carrier family 35 (udp-sugar transporter), member a1/2/3
+           a UDP-sugar[periplasm] + H+[periplasm]  ->  a UDP-sugar[cytosol] + H+[cytosol]
+Accepted   G1FV3-26657-MONOMER    sulfate                  SECONDARY 
+           sulfate permease, sulp family
+           sulfate[periplasm] + H+[periplasm]  ->  sulfate[cytosol] + H+[cytosol]
+Accepted   G1FV3-26612-MONOMER    Mn2+                     ATP       
+           manganese-transporting p-type atpase [ec:3.6.3.-]
+           Mn2+[periplasm] + ATP + H2O  ->  Mn2+[cytosol] + ADP + phosphate
+Accepted   G1FV3-26604-MONOMER    GDP-alpha-D-mannose      UNKNOWN   
+           gdp-mannose transporter
+           GDP-alpha-D-mannose[periplasm]  ->  GDP-alpha-D-mannose[cytosol]
+Accepted   G1FV3-26598-MONOMER    Zn2+                     SECONDARY 
+           solute carrier family 39 (zinc transporter), member 1/2/3
+           Zn2+[periplasm] + H+[periplasm]  ->  Zn2+[cytosol] + H+[cytosol]
+Accepted   G1FV3-26537-MONOMER    H+                       ATP       
+           f-type h+-transporting atpase subunit b
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-26535-MONOMER    thiamine diphosphate     SECONDARY 
+           solute carrier family 25 (mitochondrial thiamine pyrophosphate transporter), member 19
+           thiamine diphosphate[periplasm] + H+[periplasm]  ->  thiamine diphosphate[cytosol] + H+[cytosol]
+Accepted   G1FV3-26487-MONOMER    a sugar                  SECONDARY 
+           mfs transporter, sp family, sugar:h+ symporter
+           a sugar[periplasm] + H+[periplasm]  ->  a sugar[cytosol] + H+[cytosol]
+Accepted   G1FV3-26433-MONOMER    Ca2+                     SECONDARY 
+           solute carrier family 24 (sodium/potassium/calcium exchanger), member 6
+           Ca2+[periplasm] + Na+[cytosol]  ->  Ca2+[cytosol] + Na+[periplasm]
+Accepted   G1FV3-26433-MONOMER    K+                       SECONDARY 
+           solute carrier family 24 (sodium/potassium/calcium exchanger), member 6
+           K+[periplasm] + Na+[cytosol]  ->  K+[cytosol] + Na+[periplasm]
+Accepted   G1FV3-26400-MONOMER    an anion                 CHANNEL   
+           voltage-dependent anion channel protein 2
+           an anion[periplasm]  ->  an anion[cytosol]
+Accepted   G1FV3-26349-MONOMER    H+                       ATP       
+           v-type h+-transporting atpase subunit d
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-26322-MONOMER    H+                       ATP       
+           v-type h+-transporting atpase subunit e
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-26313-MONOMER    Zn2+                     SECONDARY 
+           solute carrier family 39 (zinc transporter), member 1/2/3
+           Zn2+[periplasm] + H+[periplasm]  ->  Zn2+[cytosol] + H+[cytosol]
+Accepted   G1FV3-26043-MONOMER    H+                       ATP       
+           v-type h+-transporting atpase 21kda proteolipid subunit
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-25931-MONOMER    (R)-pantothenate         SECONDARY 
+           mfs transporter, acs family, pantothenate transporter
+           (R)-pantothenate[periplasm] + H+[periplasm]  ->  (R)-pantothenate[cytosol] + H+[cytosol]
+Accepted   G1FV3-25832-MONOMER    H+                       ATP       
+           f-type h+-transporting atpase subunit h
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-25811-MONOMER    Zn2+                     SECONDARY 
+           solute carrier family 39 (zinc transporter), member 7
+           Zn2+[periplasm] + H+[periplasm]  ->  Zn2+[cytosol] + H+[cytosol]
+Accepted   G1FV3-25756-MONOMER    H+                       ATP       
+           f-type h+-transporting atpase subunit alpha
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-25743-MONOMER    H+                       ATP       
+           f-type h+-transporting atpase subunit gamma
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-25677-MONOMER    phosphate                SECONDARY 
+           solute carrier family 25 (mitochondrial phosphate transporter), member 23/24/25/41
+           phosphate[periplasm] + H+[periplasm]  ->  phosphate[cytosol] + H+[cytosol]
+Accepted   G1FV3-25670-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporter, aat family
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1FV3-25620-MONOMER    Zn2+                     SECONDARY 
+           solute carrier family 30 (zinc transporter), member 1
+           Zn2+[periplasm] + H+[periplasm]  ->  Zn2+[cytosol] + H+[cytosol]
+Accepted   G1FV3-30327-MONOMER    Fe3+                     SECONDARY 
+           solute carrier family 25 (mitochondrial iron transporter), member 28/37
+           Fe3+[periplasm] + H+[periplasm]  ->  Fe3+[cytosol] + H+[cytosol]
+Accepted   G1FV3-30323-MONOMER    H+                       ATP       
+           f-type h+-transporting atpase subunit g
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-30260-MONOMER    GTP                      UNKNOWN   
+           rho1 gdp-gtp exchange protein 1/2
+           GTP[periplasm]  ->  GTP[cytosol]
+Accepted   G1FV3-30260-MONOMER    GDP                      UNKNOWN   
+           rho1 gdp-gtp exchange protein 1/2
+           GDP[periplasm]  ->  GDP[cytosol]
+Accepted   G1FV3-30231-MONOMER    an amino acid            UNKNOWN   
+           yeast amino acid transporter
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1FV3-30230-MONOMER    lactate                  SECONDARY 
+           mfs transporter, shs family, lactate transporter
+           lactate[periplasm] + H+[periplasm]  ->  lactate[cytosol] + H+[cytosol]
+Accepted   G1FV3-30225-MONOMER    an amino acid            UNKNOWN   
+           yeast amino acid transporter
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1FV3-30161-MONOMER    sulfate                  SECONDARY 
+           solute carrier family 26 (sodium-independent sulfate anion transporter), member 11
+           sulfate[periplasm] + an anion[periplasm]  ->  sulfate[cytosol] + an anion[cytosol]
+Accepted   G1FV3-30096-MONOMER    an amino acid            UNKNOWN   
+           yeast amino acid transporter
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1FV3-29888-MONOMER    H+                       ATP       
+           f-type h+-transporting atpase subunit k
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-29845-MONOMER    Na+                      SECONDARY 
+           solute carrier family 10 (sodium/bile acid cotransporter), member 7
+           Na+[periplasm] + H+[periplasm]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1FV3-29780-MONOMER    an amino acid            UNKNOWN   
+           yeast amino acid transporter
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1FV3-29768-MONOMER    Ca2+                     SECONDARY 
+           ca2+:h+ antiporter
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1FV3-29664-MONOMER    H+                       ATP       
+           f-type h+-transporting atpase subunit d
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-29589-MONOMER    Mg2+                     UNKNOWN   
+           magnesium transporter
+           Mg2+[periplasm]  ->  Mg2+[cytosol]
+Accepted   G1FV3-29555-MONOMER    K+                       SECONDARY 
+           solute carrier family 12 (potassium/chloride transporters), member 9
+           K+[periplasm] + chloride[periplasm]  ->  K+[cytosol] + chloride[cytosol]
+Accepted   G1FV3-29547-MONOMER    urea                     SECONDARY 
+           urea-proton symporter
+           urea[periplasm] + H+[periplasm]  ->  urea[cytosol] + H+[cytosol]
+Accepted   G1FV3-29512-MONOMER    a dicarboxylate          SECONDARY 
+           solute carrier family 25 (mitochondrial dicarboxylate transporter), member 10
+           a dicarboxylate[periplasm] + H+[periplasm]  ->  a dicarboxylate[cytosol] + H+[cytosol]
+Accepted   G1FV3-29384-MONOMER    a glucoside              SECONDARY 
+           mfs transporter, sp family, general alpha glucoside:h+ symporter
+           a glucoside[periplasm] + H+[periplasm]  ->  a glucoside[cytosol] + H+[cytosol]
+Accepted   G1FV3-28260-MONOMER    Fe3+                     UNKNOWN   
+           metal iron transporter
+           Fe3+[periplasm]  ->  Fe3+[cytosol]
+Accepted   G1FV3-28229-MONOMER    L-aspartate              SECONDARY 
+           solute carrier family 25 (mitochondrial aspartate/glutamate transporter), member 12/13
+           L-aspartate[periplasm] + a glutamate[periplasm]  ->  L-aspartate[cytosol] + a glutamate[cytosol]
+Accepted   G1FV3-25591-MONOMER    citrate                  SECONDARY 
+           solute carrier family 25 (mitochondrial citrate transporter), member 1
+           citrate[periplasm] + H+[periplasm]  ->  citrate[cytosol] + H+[cytosol]
+Accepted   G1FV3-28144-MONOMER    Ca2+                     SECONDARY 
+           ca2+:h+ antiporter
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1FV3-28109-MONOMER    a nucleotide             UNKNOWN   
+           brefeldin a-inhibited guanine nucleotide-exchange protein
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1FV3-28109-MONOMER    guanine                  UNKNOWN   
+           brefeldin a-inhibited guanine nucleotide-exchange protein
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1FV3-28099-MONOMER    a cation                 ATP       
+           cation-transporting p-type atpase 13a3/4/5 [ec:3.6.3.-]
+           a cation[periplasm] + ATP + H2O  ->  a cation[cytosol] + ADP + phosphate
+Accepted   G1FV3-25507-MONOMER    lactate                  SECONDARY 
+           mfs transporter, shs family, lactate transporter
+           lactate[periplasm] + H+[periplasm]  ->  lactate[cytosol] + H+[cytosol]
+Accepted   G1FV3-25497-MONOMER    a nucleotide             UNKNOWN   
+           nucleotide exchange factor sil1
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1FV3-25492-MONOMER    GTP                      UNKNOWN   
+           rab5 gdp/gtp exchange factor
+           GTP[periplasm]  ->  GTP[cytosol]
+Accepted   G1FV3-25492-MONOMER    GDP                      UNKNOWN   
+           rab5 gdp/gtp exchange factor
+           GDP[periplasm]  ->  GDP[cytosol]
+Accepted   G1FV3-25470-MONOMER    H+                       ATP       
+           f-type h+-transporting atp synthase subunit e
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-28045-MONOMER    H+                       ATP       
+           f-type h+-transporting atpase subunit delta
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-25433-MONOMER    H+                       ATP       
+           v-type h+-transporting atpase 16kda proteolipid subunit
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-25413-MONOMER    phosphate                UNKNOWN   
+           phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1FV3-27993-MONOMER    a nucleoside             UNKNOWN   
+           concentrative nucleoside transporter, cnt family
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1FV3-27955-MONOMER    lactate                  SECONDARY 
+           mfs transporter, shs family, lactate transporter
+           lactate[periplasm] + H+[periplasm]  ->  lactate[cytosol] + H+[cytosol]
+Accepted   G1FV3-27931-MONOMER    an oligopeptide          SECONDARY 
+           proton-dependent oligopeptide transporter, pot family
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1FV3-27929-MONOMER    Mg2+                     UNKNOWN   
+           magnesium transporter
+           Mg2+[periplasm]  ->  Mg2+[cytosol]
+Accepted   G1FV3-27906-MONOMER    Zn2+                     SECONDARY 
+           solute carrier family 39 (zinc transporter), member 9
+           Zn2+[periplasm] + H+[periplasm]  ->  Zn2+[cytosol] + H+[cytosol]
+Accepted   G1FV3-25300-MONOMER    urea                     SECONDARY 
+           urea-proton symporter
+           urea[periplasm] + H+[periplasm]  ->  urea[cytosol] + H+[cytosol]
+Accepted   G1FV3-25287-MONOMER    a neutral amino acid     SECONDARY 
+           solute carrier family 38 (sodium-coupled neutral amino acid transporter), member 11
+           a neutral amino acid[periplasm] + H+[periplasm]  ->  a neutral amino acid[cytosol] + H+[cytosol]
+Accepted   G1FV3-25283-MONOMER    L-carnitine              SECONDARY 
+           solute carrier family 25 (mitochondrial carnitine/acylcarnitine transporter), member 20/29
+           L-carnitine[periplasm] + H+[periplasm]  ->  L-carnitine[cytosol] + H+[cytosol]
+Accepted   G1FV3-27837-MONOMER    H+                       ATP       
+           f-type h+-transporting atpase subunit j
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-25265-MONOMER    a cation                 UNKNOWN   
+           nucleobase:cation symporter-2, ncs2 family
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1FV3-25242-MONOMER    H+                       ATP       
+           v-type h+-transporting atpase subunit b
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-27745-MONOMER    an amino acid            UNKNOWN   
+           yeast amino acid transporter
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1FV3-27688-MONOMER    allantoate               SECONDARY 
+           mfs transporter, acs family, allantoate permease
+           allantoate[periplasm] + H+[periplasm]  ->  allantoate[cytosol] + H+[cytosol]
+Accepted   G1FV3-25095-MONOMER    UDP                      SECONDARY 
+           solute carrier family 35 (udp-xylose/udp-n-acetylglucosamine transporter), member b4
+           UDP[periplasm] + H+[periplasm]  ->  UDP[cytosol] + H+[cytosol]
+Accepted   G1FV3-25083-MONOMER    phosphate                SECONDARY 
+           solute carrier family 20 (sodium-dependent phosphate transporter)
+           Na+[periplasm] + phosphate[periplasm]  ->  Na+[cytosol] + phosphate[cytosol]
+Accepted   G1FV3-27628-MONOMER    H+                       ATP       
+           f-type h+-transporting atpase subunit o
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1FV3-25037-MONOMER    UDP-alpha-D-galactose    SECONDARY 
+           solute carrier family 35 (udp-galactose transporter), member b1
+           UDP-alpha-D-galactose[periplasm] + H+[periplasm]  ->  UDP-alpha-D-galactose[cytosol] + H+[cytosol]
+Accepted   G1FV3-27593-MONOMER    H+                       ATP       
+           f-type h+-transporting atpase subunit f
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Unreviewed G1FV3-27362-MONOMER    Ca2+                     CHANNEL   
+           calcium permeable stress-gated cation channel
+           Several possible reactions available for import
+Unreviewed G1FV3-27316-MONOMER    K+                       CHANNEL   
+           potassium channel subfamily k, other eukaryote
+           Several possible reactions available for import
+Unreviewed G1FV3-24700-MONOMER    Ca2+                     CHANNEL   
+           voltage-dependent calcium channel
+           Several possible reactions available for import
+Unreviewed G1FV3-24525-MONOMER    K+                       UNKNOWN   
+           kup system potassium uptake protein
+           Several possible reactions available for import
+Unreviewed G1FV3-24158-MONOMER    K+                       CHANNEL   
+           potassium channel subfamily k, other eukaryote
+           Several possible reactions available for import
+Unreviewed G1FV3-30504-MONOMER    Ca2+                     CHANNEL   
+           calcium channel mid1
+           Several possible reactions available for import
+Unreviewed G1FV3-26615-MONOMER    Ca2+                     CHANNEL   
+           calcium permeable stress-gated cation channel
+           Several possible reactions available for import
+Unreviewed G1FV3-26088-MONOMER    Ca2+                     CHANNEL   
+           calcium permeable stress-gated cation channel
+           Several possible reactions available for import
+Unreviewed G1FV3-25718-MONOMER    Na+                      SECONDARY 
+           solute carrier family 9 (sodium/hydrogen exchanger), member 6/7
+           Several possible reactions available for import
+
+
+Unreviewed G1FV3-24051-MONOMER  (no substrate identified)
+Unreviewed G1FV3-24219-MONOMER  (no substrate identified)
+Unreviewed G1FV3-24243-MONOMER  (no substrate identified)
+Unreviewed G1FV3-24250-MONOMER  (no substrate identified)
+Unreviewed G1FV3-24294-MONOMER  (no substrate identified)
+Unreviewed G1FV3-24331-MONOMER  (no substrate identified)
+Unreviewed G1FV3-24367-MONOMER  (no substrate identified)
+Unreviewed G1FV3-24561-MONOMER  (no substrate identified)
+Unreviewed G1FV3-24640-MONOMER  (no substrate identified)
+Unreviewed G1FV3-24691-MONOMER  (no substrate identified)
+Unreviewed G1FV3-24743-MONOMER  (no substrate identified)
+Unreviewed G1FV3-24773-MONOMER  (no substrate identified)
+Unreviewed G1FV3-24834-MONOMER  (no substrate identified)
+Unreviewed G1FV3-24967-MONOMER  (no substrate identified)
+Unreviewed G1FV3-24991-MONOMER  (no substrate identified)
+Unreviewed G1FV3-25053-MONOMER  (no substrate identified)
+Unreviewed G1FV3-25193-MONOMER  (no substrate identified)
+Unreviewed G1FV3-25394-MONOMER  (no substrate identified)
+Unreviewed G1FV3-25430-MONOMER  (no substrate identified)
+Unreviewed G1FV3-25721-MONOMER  (no substrate identified)
+Unreviewed G1FV3-25750-MONOMER  (no substrate identified)
+Unreviewed G1FV3-25793-MONOMER  (no substrate identified)
+Unreviewed G1FV3-25855-MONOMER  (no substrate identified)
+Unreviewed G1FV3-25940-MONOMER  (no substrate identified)
+Unreviewed G1FV3-26004-MONOMER  (no substrate identified)
+Unreviewed G1FV3-26073-MONOMER  (no substrate identified)
+Unreviewed G1FV3-26275-MONOMER  (no substrate identified)
+Unreviewed G1FV3-26754-MONOMER  (no substrate identified)
+Unreviewed G1FV3-26770-MONOMER  (no substrate identified)
+Unreviewed G1FV3-26928-MONOMER  (no substrate identified)
+Unreviewed G1FV3-26956-MONOMER  (no substrate identified)
+Unreviewed G1FV3-26967-MONOMER  (no substrate identified)
+Unreviewed G1FV3-26973-MONOMER  (no substrate identified)
+Unreviewed G1FV3-27090-MONOMER  (no substrate identified)
+Unreviewed G1FV3-27109-MONOMER  (no substrate identified)
+Unreviewed G1FV3-27174-MONOMER  (no substrate identified)
+Unreviewed G1FV3-27250-MONOMER  (no substrate identified)
+Unreviewed G1FV3-27266-MONOMER  (no substrate identified)
+Unreviewed G1FV3-27364-MONOMER  (no substrate identified)
+Unreviewed G1FV3-27442-MONOMER  (no substrate identified)
+Unreviewed G1FV3-27581-MONOMER  (no substrate identified)
+Unreviewed G1FV3-27607-MONOMER  (no substrate identified)
+Unreviewed G1FV3-27934-MONOMER  (no substrate identified)
+Unreviewed G1FV3-28002-MONOMER  (no substrate identified)
+Unreviewed G1FV3-28042-MONOMER  (no substrate identified)
+Unreviewed G1FV3-28149-MONOMER  (no substrate identified)
+Unreviewed G1FV3-28441-MONOMER  (no substrate identified)
+Unreviewed G1FV3-28511-MONOMER  (no substrate identified)
+Unreviewed G1FV3-28623-MONOMER  (no substrate identified)
+Unreviewed G1FV3-29243-MONOMER  (no substrate identified)
+Unreviewed G1FV3-29466-MONOMER  (no substrate identified)
+Unreviewed G1FV3-29498-MONOMER  (no substrate identified)
+Unreviewed G1FV3-29620-MONOMER  (no substrate identified)
+Unreviewed G1FV3-29853-MONOMER  (no substrate identified)
+Unreviewed G1FV3-29931-MONOMER  (no substrate identified)
+Unreviewed G1FV3-30186-MONOMER  (no substrate identified)
+Unreviewed G1FV3-30290-MONOMER  (no substrate identified)
+Unreviewed G1FV3-30732-MONOMER  (no substrate identified)
+Unreviewed G1FV3-31164-MONOMER  (no substrate identified)
+Unreviewed G1FV3-31295-MONOMER  (no substrate identified)
