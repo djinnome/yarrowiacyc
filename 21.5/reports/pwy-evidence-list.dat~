@@ -1,0 +1,8 @@
+;;;  Pathway Tools version 21.0  executed on 2017-08-14 at 20:29:44
+;;;  MetaCyc version 21.0
+;;;  pathway-prediction-score-cutoff = 0.15
+;;;  
+;;; This file contains all inferred pathways and the list of reactions in each pathway for
+;;; which there is evidence for that reaction (an enzyme is present for the reaction).
+;;;
+(PWY-6348 ACID-PHOSPHATASE-RXN)
